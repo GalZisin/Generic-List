@@ -1,0 +1,14 @@
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\bin\Debug\130319.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\bin\Debug\130319.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\bin\Debug\130319.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\obj\Debug\130319.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\obj\Debug\130319.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\obj\Debug\130319.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319\130319\obj\Debug\130319.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\bin\Debug\130319.exe.config
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\bin\Debug\130319.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\bin\Debug\130319.pdb
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\obj\Debug\130319.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\obj\Debug\130319.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\obj\Debug\130319.exe
+C:\Users\GAL\Desktop\Dot_net\DotNetCourse\OOP\HomeWork\hw_130319\130319 - List Generic\130319\obj\Debug\130319.pdb
